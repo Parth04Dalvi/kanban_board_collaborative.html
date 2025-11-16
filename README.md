@@ -1,5 +1,8 @@
 # kanban_board_collaborative.html
 
+<img width="588" height="519" alt="image" src="https://github.com/user-attachments/assets/93cf76aa-afa4-4d50-9c7f-873b449a5076" />
+
+
 Real-Time Collaborative Kanban Board
 
 🚀 Project Overview
